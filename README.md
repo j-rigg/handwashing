@@ -1,2 +1,1 @@
-# handwashing
-Open Handwashing
+# Open Handwashing
