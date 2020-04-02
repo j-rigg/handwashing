@@ -12,4 +12,4 @@ This project aims to promote correct handwashing technique by prompting users at
 
 ## How do I get started?
 
-This project is Open Source Hardware, so please feel free to build, modify, and test! To get started, see the Wiki for an overview. To get involved, check out [How to Contribute](CONTRIBUTING.md).
+This project is Open Source Hardware, so please feel free to build, modify, and test! To get started, see the Wiki for an overview of the hardware, project status, and available documents. To get involved, check out [How to Contribute](CONTRIBUTING.md).
