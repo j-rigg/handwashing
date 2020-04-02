@@ -6,7 +6,7 @@ Open Handwashing is a device to help people wash their hands better and prevent 
 
 ## Why is this project useful?
 
-Guidelines for proper handwashing are published by many public health organizations, such as the [WHO](https://www.who.int/gpsc/clean_hands_protection/en/), [Health Canada](https://www.canada.ca/en/health-canada/services/healthy-living/your-health/diseases/benefits-hand-washing.html), and the [CDC](https://www.cdc.gov/handwashing/when-how-handwashing.html). Unfortunately, we often rush and don't follow them properly.
+Guidelines for proper handwashing are published by many public health organizations, such as [Health Canada](https://www.canada.ca/en/health-canada/services/healthy-living/your-health/diseases/benefits-hand-washing.html), the [WHO](https://www.who.int/gpsc/clean_hands_protection/en/), and the [CDC](https://www.cdc.gov/handwashing/when-how-handwashing.html). Unfortunately, it is always tempting to rush and not follow them properly.
 
 ## How do I get started?
 
