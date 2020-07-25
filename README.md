@@ -14,4 +14,4 @@ This project aims to promote correct handwashing technique by prompting users at
 
 The system uses an Arduino to control a pump for dispensing soap, a valve for water flow, and 6 LED-lit panels showing different stages of handwashing (such as steps 2-7 in the [WHO directions](https://www.who.int/gpsc/media/how_to_handwash_lge.gif)).
 
-Currently, the Arduino code, electrical schematic, and bill of materials are available. This project is open source, so please feel free to build, modify, and test!
+Currently, the Arduino code, electrical schematic, and bill of materials are available (thanks to [onesimo93](https://github.com/onesimo93)). This project is open source, so please feel free to build, modify, and test!
